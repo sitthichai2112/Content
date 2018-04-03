@@ -115,11 +115,11 @@ class Content extends Component {
                 <Table striped bordered condensed hover>
                     <thead>
                     <tr>
-                        <th>id</th>
-                        <th>Title</th>
-                        <th>Description</th>
-                        <th>Update</th>
-                        <th>Delete</th>
+                        <th className='text-tr'>id</th>
+                        <th className='text-tr'>Title</th>
+                        <th className='text-tr'>Description</th>
+                        <th className='text-tr'>Update</th>
+                        <th className='text-tr'>Delete</th>
                     </tr>
                     </thead>
                     <tbody>
